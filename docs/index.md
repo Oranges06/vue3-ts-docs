@@ -7,7 +7,7 @@ hero:
   text: 'Vue 3 + Typescript 学习文档'
   tagline: '落笔生花, 惊起思绪涟漪；拾笔凝思, 记录学习璀璨'
   image:
-    src: /assets/logo.png
+    src: https://chenpicture.oss-cn-shanghai.aliyuncs.com/1569440014103_7.png
     alt: Chrome 浏览器插件
   actions:
     - theme: brand
