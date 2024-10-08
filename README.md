@@ -10,9 +10,9 @@
 <p>
 <!-- 后面可以加入 ？color=red 这样的参数改变徽章颜色，默认为绿色 -->
 
-![GitHub License](https://img.shields.io/github/license/oranges06/vue3-ts-docs)
-![GitHub Stars](https://img.shields.io/github/stars/oranges06/vue3-ts-docs)
-![GitHub Forks](https://img.shields.io/github/forks/oranges06/vue3-ts-docs)
+![GitHub License](https://img.shields.io/github/license/Oranges06/vue3-ts-docs)
+![GitHub Stars](https://img.shields.io/github/stars/Oranges06/vue3-ts-docs)
+![GitHub Forks](https://img.shields.io/github/forks/Oranges06/vue3-ts-docs)
 ![Build Status](https://img.shields.io/github/workflow/status/oranges/vue3-ts-docs/CI)
 ![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
