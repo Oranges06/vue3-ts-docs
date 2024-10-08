@@ -14,7 +14,9 @@ export default defineConfig({
       { text: 'API 参考', link: '/api/' },
       { text: '常见问题', link: '/fag/' }
     ],
-    socialLinks: [{ icon: 'github', link: '' }],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/Oranges06/vue3-ts-docs.git' }
+    ],
     sidebar: {
       '/guide/': [
         {
