@@ -59,11 +59,11 @@ npm run dev
 
 可以使用左下角的 NPM SCRIPTS 运行
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728373075120-58776c82-aa94-449f-a486-a83e034b65c0.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/1.png)
 
 ## 项目结构
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728373240553-9722e261-6f12-43bd-946b-d866e5ebfefe.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/2.png)
 
 每个文件夹新建`index.md`作为首页
 
@@ -118,7 +118,7 @@ npm i vitepress-theme-demoblock
 
 新建`var.css`和`index.ts`
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728373619753-f848b400-1f28-451a-96d0-f39821ce3def.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/3.png)
 
 修改颜色
 
@@ -257,7 +257,7 @@ export default defineConfig({
 - 通过 VitePress 和 TypeScript，快速搭建高效、可维护的 Vue 3 应用。
 ```
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728375106765-71b32aa4-1fe3-4afb-9e53-2ced9f7ff996.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/4.png)
 
 ## LICENSE
 
@@ -291,36 +291,36 @@ SOFTWARE.
 
 创建公共仓库
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374092514-d47f9209-73d2-4d61-a9e9-9764ab412d6c.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/5.png)
 
 上传代码
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374176892-35bb648a-1660-4cea-b276-f7f8a4c6471b.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/6.png)
 
 ## 部署Vercel
 
 用github登录
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374297345-bb02cd04-4900-4caa-bc68-7789290c51e4.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/7.png)
 
 创建
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374376077-3f3653eb-2bd2-458f-a105-2e52ff67a7bc.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/8.png)
 
 选择git仓库
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374437773-5ab7bdc7-2576-44c6-938d-5db58f42a458.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/9.png)
 
 部署
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374554591-82eaf83f-8b61-47bd-aa20-14730ad5373f.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/10.png)
 
 访问页面
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374686753-a5241ec2-a46f-4b72-b3d8-e41e7f534e4b.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/11.png)
 
 ## 页面展示
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728374726176-a237286a-4ae3-453e-a786-532de916357c.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/12.png)
 
-![](https://cdn.nlark.com/yuque/0/2024/png/33727968/1728375059457-53b7b936-b7d1-4beb-8f10-7e6fadc67c8f.png)
+![](https://oranges-oss.oss-cn-hangzhou.aliyuncs.com/note/VitePress/13.png)
