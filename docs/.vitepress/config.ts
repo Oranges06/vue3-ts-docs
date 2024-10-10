@@ -12,6 +12,7 @@ export default defineConfig({
       { text: '指南', link: '/guide/' },
       { text: '组件', link: '/components/' },
       { text: 'API 参考', link: '/api/' },
+      { text: '笔记', link: '/note/' },
       { text: '常见问题', link: '/fag/' }
     ],
     socialLinks: [
@@ -37,6 +38,20 @@ export default defineConfig({
             { text: '按钮 Button', link: '/components/button' },
             { text: '表单 Form', link: '/components/form' },
             { text: '表格 Table', link: '/components/table' }
+          ]
+        }
+      ],
+      '/note/': [
+        {
+          text: '学习笔记',
+          collapsed: true,
+          items: [
+            { text: '介绍', link: '/note/' },
+            { text: 'VueUse学习笔记', link: '/note/VueUse' },
+            {
+              text: '使用 VitePress 构建自己的学习站点实施步骤',
+              link: '/note/VitePress'
+            }
           ]
         }
       ]
